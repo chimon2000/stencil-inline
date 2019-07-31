@@ -1,5 +1,5 @@
 {
-  "name": "angular2-inline",
+  "name": "stencil-inline",
   "description": "Visual Studio Code language extension for javascript/typescript files that use Angular2.",
   "version": "0.0.17",
   "publisher": "natewallace",
